@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-app-group-file-sharing",
+  "version": "0.0.1",
+  "description": "Load file from ios app group",
+  "cordova": {
+    "id": "cordova-plugin-app-group-file-sharing",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Tikhon Petrishchev",
+  "license": "MIT"
+}
